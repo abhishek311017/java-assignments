@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Orders {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args)
 	{
 		System.out.println("Enter the order price");
